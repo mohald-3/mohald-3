@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+Portfolio)
+![Header Image](Banner.png)
 
 # 💫 About Me:
 Hello, I'm Mohanad 🙋‍♂️, a dedicated **.NET Developer** with a strong focus on building high-performance, scalable, and user-friendly applications. I am passionate about exploring new technologies and leveraging them to solve complex, real-world challenges.
