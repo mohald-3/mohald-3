@@ -1,7 +1,7 @@
 ![Header Image](Banner.png)
 
 ## 💫 About Me:
-Hello, I'm Mohanad 🙋‍♂️, a dedicated **.NET Developer** with a strong focus on building high-performance, scalable, and user-friendly applications. I am passionate about exploring new technologies and leveraging them to solve complex, real-world challenges.
+A dedicated **.NET Developer** with a strong focus on building high-performance, scalable, and user-friendly applications. I am passionate about exploring new technologies and leveraging them to solve complex, real-world challenges.
 
 ## 🌐 Socials:
 I’m always open to discussing new opportunities, exchanging ideas, or sharing insights on development. Don't hesitate to get in touch — let's build something great!
@@ -13,9 +13,9 @@ I’m always open to discussing new opportunities, exchanging ideas, or sharing 
 ## 💻 Tech Stack:
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-- C#: Proficient in object-oriented programming and the .NET ecosystem.
-- Python: Experienced in data analysis, scripting, and automation.
-- Javascript: Skilled in building interactive and dynamic web applications.
+- C# - Proficient in object-oriented programming and the .NET ecosystem.
+- Python - Experienced in data analysis, scripting, and automation.
+- Javascript - Skilled in building interactive and dynamic web applications.
 
 ### Frameworks & Libraries
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=aspdotnet&logoColor=white&style=flat-square) ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-7A8B8B?logo=entity-framework&logoColor=white&style=flat-square) ![Blazor](https://img.shields.io/badge/-Blazor-4E5B5B?logo=blazor&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
