@@ -5,6 +5,7 @@ Hello, I'm Mohanad 🙋‍♂️, a dedicated **.NET Developer** with a strong f
 
 ## 🌐 Socials:
 I’m always open to discussing new opportunities, exchanging ideas, or sharing insights on development. Don't hesitate to get in touch — let's build something great!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-daghestani) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohald_3) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohanad.aldaghestani@gmail.com)
