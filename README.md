@@ -1,4 +1,6 @@
-![Eddie Lind - Full-Stack Developer. C# / .NET, React, TypeScript.](banner.svg)
+<picture>
+  <img src="banner.svg" alt="Eddie Lind - Full-Stack Developer. C# / .NET, React, TypeScript.">
+</picture>
 
 ## 💫 About Me:
 I'm a full-stack developer with a backend focus and a background in architectural engineering. I mainly work with C# and .NET, and build web and mobile applications with React, Next.js, TypeScript, and React Native.
