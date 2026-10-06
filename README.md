@@ -1,4 +1,6 @@
-![Header Image](Banner.png)
+![Eddie Lind - Full-Stack Developer. C# / .NET, React, TypeScript.](banner.svg)
+
+[Portfolio](https://eddies-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/eddielind/)| [Email](mailto:m.eddie.lind@gmail.com)
 
 ## 💫 About Me:
   A **Fullstack Developer** with a background in Architectural Engineering, focused on building scalable, testable, and production-ready applications. I work across the full stack — from .NET backends and Next.js web apps to cross-platform mobile apps with React Native using Clean Architecture, CQRS, and modern DevOps practices.
@@ -6,9 +8,9 @@
 ## 🌐 Socials:
 I’m always open to discussing new opportunities, exchanging ideas, or sharing insights on development. Don't hesitate to get in touch, let's build something great!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-daghestani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddielind/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohald_3) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohanad.aldaghestani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:m.eddie.lind@gmail.com)
 
 ## 💻 Tech Stack:
 ### Programming Languages
