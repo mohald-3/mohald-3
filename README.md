@@ -1,15 +1,22 @@
 ![Eddie Lind - Full-Stack Developer. C# / .NET, React, TypeScript.](banner.svg)
 
 ## 💫 About Me:
-  A **Fullstack Developer** with a background in Architectural Engineering, focused on building scalable, testable, and production-ready applications. I work across the full stack — from .NET backends and Next.js web apps to cross-platform mobile apps with React Native using Clean Architecture, CQRS, and modern DevOps practices.
+I'm a full-stack developer with a backend focus and a background in architectural engineering. I mainly work with C# and .NET, and build web and mobile applications with React, Next.js, TypeScript, and React Native.
+
+My work includes REST APIs, authentication, integrations, automated testing, and deployment. I care about readable code and solutions that are straightforward to maintain.
 
 ## 🌐 Socials:
-I’m always open to discussing new opportunities, exchanging ideas, or sharing insights on development. Don't hesitate to get in touch, let's build something great!
+For development roles, project enquiries, or technical discussions, feel free to get in touch.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square)](https://eddies-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddielind/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohald_3) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:m.eddie.lind@gmail.com)
+
+## Selected Projects
+
+- **[GODO](https://eddies-portfolio.vercel.app/#/projects/godo)** - An event platform with a .NET backend, a Next.js organiser web app, and a React Native consumer app published on iOS and Android.
+- **[VeloLog](https://eddies-portfolio.vercel.app/#/projects/velolog)** - An Android-first cycling app for recording rides and tracking bike maintenance, built with React Native, Expo, and SQLite. It works without an account or internet connection.
+- **[PluggKompis](https://eddies-portfolio.vercel.app/#/projects/plugg-kompis)** - A platform for finding and booking free homework-help sessions, built with .NET and React.
 
 ## 💻 Tech Stack:
 ### Programming Languages
